@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(image/33.jpg);
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.buttons1{
+    position: relative;
+    text-align: center;
+    width: 250px;
+    
+    padding: 40px;
+    font-size: 35px;
+    font-family: poppins;
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5;
+    
+}
+.buttons1 a{
+    text-decoration: none;
+    color: #15f4ee;
+}
+.buttons1:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ;
+                0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ;    
+}
+
+/*b2 */
+
+.buttons2{
+    position: relative;
+    text-align: center;
+    width: 250px;
+    
+    padding: 40px;
+    font-size: 35px;
+    font-family: poppins;
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5;
+    
+}
+.buttons2 a{
+    text-decoration: none;
+    color: #15f4ee;
+}
+.buttons2:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ;
+                0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ;    
+}
+
+/*b3*/
+.buttons3{
+    position: relative;
+    text-align: center;
+    width: 250px;
+    
+    padding: 40px;
+    font-size: 35px;
+    font-family: poppins;
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5;
+    
+}
+.buttons3 a{
+    text-decoration: none;
+    color: #15f4ee;
+}
+.buttons3:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ;
+                0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ;    
+}

@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+}
+    
+
+
+
+.joker{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    
+    padding: 40px;
+    font-size: 35px;
+    font-family: poppins;
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5;
+}
+
+.joker a{
+    text-decoration: none;
+    color: #ff32c1;
+}
+.joker:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset,  0 5px 50 ;px 0 #15f4ee;
+    0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ; 
+}
+.joker img{
+    height: 300px;
+    width: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nwh{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    
+    padding: 40px;
+    font-size: 35px;
+    font-family: poppins;
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5;
+}
+.nwh a{
+    text-decoration: none;
+    color: #ff32c1;
+}
+.nwh:hover{
+    box-shadow: 0 5px 50px 0 #15f4ee inset,  0 5px 50 ;px 0 #15f4ee;
+    0 5px 50px 0 #15f4ee inset,  0 5px 50px 0 #15f4ee  ; 
+}
+.nwh img{
+    height: 300px;
+    width: 600px;
+}
